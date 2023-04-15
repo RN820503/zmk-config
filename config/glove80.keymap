@@ -121,11 +121,11 @@
         base_layer {
             bindings = <
 &kp F1    	&kp F2   		&kp F3    		&kp F4     	&kp F5                                                                                  				&kp F6	&kp F7    	&kp F8    	&kp F9    	&kp F10
-&kp GRAVE   &kp N1   		&kp N2    		&kp N3     	&kp N4  	&kp N5                                                                  		&kp N6  	&kp N7  &kp N8    	&kp N9    	&kp N0  	&kp DEL
-&kp INS     &kp W    		&kp X     		&kp M      	&kp G   	&kp J                                                                   		&kp SEMI   	&kp DOT &kp EQUAL   &kp FSLH    &kp SQT   	&kp BSLH
-&kp Q     	&kp C    		&kp S     		&kp N      	&kp T   	&kp K                                                                   		&kp COMMA   &kp A   &kp E     	&kp I  		&kp H    	&kp Z
-&kp ESC   	&kp P    		&kp F     		&kp L      	&kp D   	&kp V  	&kp LSHFT 	&kp LGUI   	&lower  	&kp RCTRL  	&kp RGUI  	&kp RSHFT   &kp MINUS   &kp U  	&kp O		&kp Y		&kp B  		&kp PG_UP
-&magic 2 0  &kp LG(LEFT) 	&kp LG(RIGHT)  	&kp LEFT  	&kp RIGHT         	&kp R    	&kp BSPC  	&kp TAB  	&kp LALT    &kp RET  	&kp SPACE          		&kp UP  &kp DOWN  	&kp LBKT  	&kp RBKT  	&kp PG_DN
+&kp GRAVE   &kp N1   		&kp N2    		&kp N3     	&kp N4  		&kp N5                                                                  		&kp N6  	&kp N7  &kp N8    	&kp N9    	&kp N0  	&kp DEL
+&kp INS     &kp W    		&kp X     		&kp M      	&kp G   		&kp J                                                                   		&kp SEMI   	&kp DOT &kp EQUAL   &kp FSLH    &kp SQT   	&kp BSLH
+&kp Q     	&hm LCTRL C    	&hm LALT S     	&kp LGUI N  &kp LSHIFT T	&kp K                                                                   		&kp COMMA   &kp A   &kp E     	&kp I  		&kp H    	&kp Z
+&kp ESC   	&kp P    		&kp F     		&kp L      	&kp D   		&kp V  	&kp LSHFT 	&kp LGUI   	&lower  	&kp RCTRL  	&kp RGUI  	&kp RSHFT   &kp MINUS   &kp U  	&kp O		&kp Y		&kp B  		&kp PG_UP
+&magic 2 0  &kp LG(LEFT) 	&kp LG(RIGHT)  	&kp LEFT  	&kp RIGHT         		&kp R    	&kp BSPC  	&kp TAB  	&kp LALT    &kp RET  	&kp SPACE          		&kp UP  &kp DOWN  	&kp LBKT  	&kp RBKT  	&kp PG_DN
             >;
         };
 
